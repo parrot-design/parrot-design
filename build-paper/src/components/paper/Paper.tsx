@@ -1,7 +1,6 @@
 import React from 'react';
 import { IPaperProps } from './interface';
-import classNames from '@parrotjs/classnames';
-import { ConfigContext } from '../config-provider';
+import classNames from '@parrotjs/classnames'; 
 import { hasValue } from '../../utils/value'
 import './index.scss';
 
@@ -14,15 +13,15 @@ const InternalPaper:React.ForwardRefRenderFunction<unknown, IPaperProps>=(props,
 
     const {
         component:PaperRoot='div',
-        prefixCls:customizePrefixCls,
+        prefixCls:customizePrefixCls='parrot',
         className,
         children,
         elevation=1,
         square=false,
         ...restProps
-    }=props;
+    }=props; 
 
-    const prefixCls= React.useContext(ConfigContext)?.getPrefixCls('Paper',customizePrefixCls);  
+    const prefixCls=customizePrefixCls+'-Paper'
 
     return (
         <PaperRoot

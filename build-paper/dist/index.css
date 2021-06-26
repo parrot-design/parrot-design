@@ -1,0 +1,84 @@
+.parrot-Paper {
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #fff;
+}
+.parrot-Paper-round {
+  border-radius: 4px;
+}
+.parrot-Paper-elevation0 {
+  box-shadow: none;
+}
+.parrot-Paper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation2 {
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation3 {
+  box-shadow: 0px 3px 3px -2px rgba(0, 0, 0, 0.2), 0px 3px 4px 0px rgba(0, 0, 0, 0.14), 0px 1px 8px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation4 {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation5 {
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 5px 8px 0px rgba(0, 0, 0, 0.14), 0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation6 {
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 6px 10px 0px rgba(0, 0, 0, 0.14), 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation7 {
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation8 {
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation9 {
+  box-shadow: 0px 5px 6px -3px rgba(0, 0, 0, 0.2), 0px 9px 12px 1px rgba(0, 0, 0, 0.14), 0px 3px 16px 2px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation10 {
+  box-shadow: 0px 6px 6px -3px rgba(0, 0, 0, 0.2), 0px 10px 14px 1px rgba(0, 0, 0, 0.14), 0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation11 {
+  box-shadow: 0px 6px 7px -4px rgba(0, 0, 0, 0.2), 0px 11px 15px 1px rgba(0, 0, 0, 0.14), 0px 4px 20px 3px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation12 {
+  box-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation13 {
+  box-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 13px 19px 2px rgba(0, 0, 0, 0.14), 0px 5px 24px 4px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation14 {
+  box-shadow: 0px 7px 9px -4px rgba(0, 0, 0, 0.2), 0px 14px 21px 2px rgba(0, 0, 0, 0.14), 0px 5px 26px 4px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation15 {
+  box-shadow: 0px 8px 9px -5px rgba(0, 0, 0, 0.2), 0px 15px 22px 2px rgba(0, 0, 0, 0.14), 0px 6px 28px 5px rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation16 {
+  box-shadow: 0 8 11 -5 rgba(0, 0, 0, 0.2), 0 17 26 2 rgba(0, 0, 0, 0.14), 0 6 32 5 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation17 {
+  box-shadow: 0 9 11 -5 rgba(0, 0, 0, 0.2), 0 18 28 2 rgba(0, 0, 0, 0.14), 0 7 34 6 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation18 {
+  box-shadow: 0 9 12 -6 rgba(0, 0, 0, 0.2), 0 19 29 2 rgba(0, 0, 0, 0.14), 0 7 36 6 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation19 {
+  box-shadow: 0 10 13 -6 rgba(0, 0, 0, 0.2), 0 20 31 3 rgba(0, 0, 0, 0.14), 0 8 38 7 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation20 {
+  box-shadow: 0 10 13 -6 rgba(0, 0, 0, 0.2), 0 21 33 3 rgba(0, 0, 0, 0.14), 0 8 40 7 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation21 {
+  box-shadow: 0 10 13 -6 rgba(0, 0, 0, 0.2), 0 21 33 3 rgba(0, 0, 0, 0.14), 0 8 40 7 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation22 {
+  box-shadow: 0 10 13 -6 rgba(0, 0, 0, 0.2), 0 21 33 3 rgba(0, 0, 0, 0.14), 0 8 40 7 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation23 {
+  box-shadow: 0 11 14 -7 rgba(0, 0, 0, 0.2), 0 23 36 3 rgba(0, 0, 0, 0.14), 0 9 44 8 rgba(0, 0, 0, 0.12);
+}
+.parrot-Paper-elevation24 {
+  box-shadow: 0 11 15 -7 rgba(0, 0, 0, 0.2), 0 24 38 3 rgba(0, 0, 0, 0.14), 0 9 46 8 rgba(0, 0, 0, 0.12);
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,18 @@
+@import "../../styles/imports.scss";
+
+$prefixCls:"#{$global-prefix}-Paper";
+
+.#{$prefixCls}{
+    color:$global-text-color;
+    background-color: #fff;
+
+    &-round{
+        border-radius: 4px;
+    }
+
+    @for $i from 0 through 24 {
+        &-elevation#{$i} {
+            @include boxShadowLevel($i)
+        }
+    }
+}
